@@ -1,0 +1,29 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chess.js": "^0.13.4",
+    "feather-icons-react": "^0.7.0",
+    "next": "14.2.4",
+    "prop-types": "^15.8.1",
+    "react": "^18",
+    "react-chessboard": "^4.6.0",
+    "react-dom": "^18",
+    "sass": "^1.77.6",
+    "socket.io-client": "^4.7.5"
+  },
+  "devDependencies": {
+    "@types/chess.js": "^0.13.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
