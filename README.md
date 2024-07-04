@@ -20,11 +20,11 @@ The server is built with Express & socket.io, and the frontend is built with Nex
 
 #### Game Creation System
 
-![Node.js Chess Game Platform working]()
+![Node.js Chess Game Platform working](https://github.com/eritaakash/chess-platform/blob/main/assets/chessDiagram1.PNG?raw=true)
 
 #### Game Session: Behind the Scenes
 
-![Node.js Chess Game Platform Working]()
+![Node.js Chess Game Platform Working](https://raw.githubusercontent.com/eritaakash/chess-platform/main/assets/chessDiagram2.PNG)
 
 The above diagrams may not cover up the entire functionality, such as firing of `game:join` event from the client side.
 
